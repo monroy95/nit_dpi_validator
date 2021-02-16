@@ -9,7 +9,7 @@ setup(
     author_email = 'm.monroyc22@hotmail.com',
     license='LGPL',
     url = 'https://github.com/monroy95/nit_dpi_validator', # use the URL to the github repo
-    # download_url = 'https://github.com/monroy95/nit_dpi_validator/tarball/0.1',
+    download_url = 'https://github.com/monroy95/nit_dpi_validator/tags',
     keywords = ['dpi', 'nit', 'Validador NIT Guatemala', 'NIT Guatemala'],
     classifiers = [
         'Intended Audience :: Developers',
